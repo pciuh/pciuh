@@ -1,0 +1,6 @@
+# Sample _config.yml for a Jekyll site
+title: abouT_Me
+description: About
+remote_theme: dracula/gh-pages
+
+# Other configurations can go here
